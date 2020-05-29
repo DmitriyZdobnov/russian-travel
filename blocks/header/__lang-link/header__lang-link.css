@@ -3,11 +3,6 @@
     color: #FFFFFF;
     font-size: 24px;
     line-height: 28px;
-    transition: opacity 0.3s linear 0s;
-}
-
-.header__lang-link:hover {
-    opacity: 0.3;
 }
 
 @media (max-width:320px) {
